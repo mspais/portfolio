@@ -1,0 +1,13 @@
+body {
+    background-image: url("../images/brown-tabby-cat.jpeg");
+    background-repeat: no-repeat,repeat; background-size: cover;
+}
+
+p {
+    color:hotpink;
+    font-size:3em;
+}
+
+figcaption {
+    color: lavenderblush;
+}
