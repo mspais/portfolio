@@ -6,9 +6,9 @@
 
 ## Portfolio of my tech skills, projects, and experience
 
-https://mspais.github.io/portfolio/
+**https://mspais.github.io/portfolio/**
 
-As Kanye West said:
+*As Kanye West said:*
 
 > We're living the future so
 > the present is our past.
